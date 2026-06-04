@@ -49,4 +49,4 @@ Submitted as part of the CodeAlpha UI/UX Design Internship Program.
 
 ## Author
 
-Harsha
+HarshaVardhan
